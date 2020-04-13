@@ -1,4 +1,4 @@
-# Read: 01 - Learning Markdown
+# Reading: 01 - Learning Markdown
 ##### 4/13/20
 
 ## Choosing a Text Editor
