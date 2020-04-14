@@ -28,4 +28,3 @@ command [-option] argument
 ## Space in names
 - `'test something'` - Quotes can be used so you can use spaces
 - `test\ something` - the `\`(back slash) is a escape character to tell the terminal to not pay attention to the next character.
-
