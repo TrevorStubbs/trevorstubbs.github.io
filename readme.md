@@ -12,5 +12,5 @@ Assignments
 - Read 03
 
 Notes
-- Day 1
-- Day 2
+- [Day 1](Notes/102Day1Notes.md)
+- [Day 2](Notes/102Day2Notes.md)
